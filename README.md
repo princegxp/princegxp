@@ -24,6 +24,12 @@
 <img src = "https://assets.tryhackme.com/room-badges/de2b29b82d8eaa855039212df118033e.png" height="140" width="300" align="left">
 <img src = "https://assets.tryhackme.com/room-badges/c1aeb9c4c9eadf1918754d1f791c0618.png"  height="140" width="300" align = "center">
 <img src = "https://assets.tryhackme.com/room-badges/e0cf1916edb0514506813ca4a2ed4b69.png"  height="140" width="300" align = "left">
+<img src = "https://assets.tryhackme.com/room-badges/51b4d9854244200091b8e19531eb3574.png" height ="140" width="300" align= "center">
+<img src = "https://assets.tryhackme.com/room-badges/8885db9f1e48473c62e71ef63f85449c.png" height = "140" width="300" align= "left">
+<img src = "https://assets.tryhackme.com/room-badges/c8a5d740b3522c3e21cdd41e5e60607f.png" height = "140" width="300" align = "center">
+<img src = "https://assets.tryhackme.com/room-badges/8ef04c36c380babc62a69089ea8d0cdf.png" height = "140" width="300" align = "left">
+<img src = "https://assets.tryhackme.com/room-badges/b004461d64c7097770557027fc605aa0.png" height = "140" width = "300" align ="center">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
