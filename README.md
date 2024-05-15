@@ -21,9 +21,9 @@
 
 <h2> My TryHackMe portal and Achievements </h2>
 <img src = "https://tryhackme-badges.s3.amazonaws.com/princegxp.png?5">
-<h4> World Ranking = top 16% </h4>
-<h4> Rooms Completed = 36 </h4>
-<h4> Badges Earned = 9 </h4>
+<h4> 🏆 World Ranking = top 16% </h4>
+<h4> 🚪 Rooms Completed = 36 </h4>
+<h4> 💎 Badges Earned = 9 </h4>
 <img src = "https://assets.tryhackme.com/room-badges/de2b29b82d8eaa855039212df118033e.png" height="140" width="300" align="left">
 <img src = "https://assets.tryhackme.com/room-badges/c1aeb9c4c9eadf1918754d1f791c0618.png"  height="140" width="300" align = "center">
 <img src = "https://assets.tryhackme.com/room-badges/e0cf1916edb0514506813ca4a2ed4b69.png"  height="140" width="300" align = "left">
