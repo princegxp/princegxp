@@ -32,6 +32,7 @@
 <img src = "https://assets.tryhackme.com/room-badges/c8a5d740b3522c3e21cdd41e5e60607f.png" height = "140" width="300" align = "center">
 <img src = "https://assets.tryhackme.com/room-badges/8ef04c36c380babc62a69089ea8d0cdf.png" height = "140" width="300" align = "left">
 <img src = "https://assets.tryhackme.com/room-badges/b004461d64c7097770557027fc605aa0.png" height = "140" width = "300" align ="center">
+<img src = "https://assets.tryhackme.com/room-badges/788b7c60f9a4f0a493f781c4afe70f54.png" height = "140" width = "300" align = "left">
 
 
 <h3 align="left">Languages and Tools:</h3>
